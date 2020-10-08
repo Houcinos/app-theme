@@ -48,13 +48,21 @@ copyright 2017 apptheme
 ### CSS
 
 1/ header
+
 2/ subheader
+
 3/ navbar
+
 4/ showcase
+
 5/ features
+
 6/ info
+
 7/ company
+
 8/ footer
+
 9/ page
 
 ## 2. About page
@@ -68,17 +76,22 @@ Create 'about' branch to create the about.html file
 ### HTML
 1/ header:
 - same header used for the home page 
+
 2/ Create subheader for 'about us'
+
 3/ create main page:
 - two paragraphs, one for who we are and one for what we do
+
 4/ create a container for the company details
 - same as the home page
+
 5/ create a footer 
 - same as the home page
 
 ### CSS
 
 1/ subheader
+
 2/ main page
 
 ## 3. services page
@@ -92,11 +105,15 @@ Create 'services' branch to create the services.html file
 ### HTML
 1/ header:
 - same header used for the home page 
+
 2/ Create subheader for 'services'
+
 3/ create main page:
 - 3 paragraphs for the three services
+
 4/ create a container for the company details
 - same as the home page
+
 5/ create a footer 
 - same as the home page
 
@@ -116,12 +133,16 @@ Create 'contact' branch to create the contact.html file
 ### HTML
 1/ header:
 - same header used for the home page 
+
 2/ Create subheader for 'contact'
+
 3/ create main page:
 - 3 labels, 2 inputs for name and email and one textarea for message
 - add submit button
+
 4/ create a container for the company details
 - same as the home page
+
 5/ create a footer 
 - same as the home page
 
