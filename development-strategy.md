@@ -28,15 +28,20 @@ Create 'home' branch to create the index.html file
 1/ Create a header:
 - place Logo in the right of the header
 - Create 4 pages links 'home' 'about' 'services' and 'contact' in the left of the header 
+
 2/ Create Showcase:
 - include a welcome message 
+
 3/ create container for features
 - two icon rows mentioning the features
+
 4/ create an info section:
 - list the core features
+
 5/ create a container for the company details
 - 'contact us' 'about us' and 'newsletter' 
 - in 'newsletter' collect emails and add a button to submit
+
 6/ create footer 
 copyright 2017 apptheme 
 
