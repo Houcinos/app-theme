@@ -15,6 +15,7 @@ __A User can see my initial repository and live demo__
 - Generate from Template
 - Write initial, basic README
 - Turn on GitHub Pages
+- Clone to PC
 
 ## 1. Home page
 
