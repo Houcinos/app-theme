@@ -46,25 +46,6 @@ Create 'home' branch to create the index.html file
 6/ create footer 
 copyright 2017 apptheme 
 
-### CSS
-
-1/ header
-
-2/ subheader
-
-3/ navbar
-
-4/ showcase
-
-5/ features
-
-6/ info
-
-7/ company
-
-8/ footer
-
-9/ page
 
 ## 2. About page
 
@@ -89,11 +70,6 @@ Create 'about' branch to create the about.html file
 5/ create a footer 
 - same as the home page
 
-### CSS
-
-1/ subheader
-
-2/ main page
 
 ## 3. services page
 
@@ -118,10 +94,6 @@ Create 'services' branch to create the services.html file
 5/ create a footer 
 - same as the home page
 
-### CSS
-
-same style as the about and home
-- add odd and even background
 
 ## 4. contact page
 
@@ -147,10 +119,30 @@ Create 'contact' branch to create the contact.html file
 5/ create a footer 
 - same as the home page
 
+## 5. css 
+
+### Repo
+
+Create 'rest' branch to create the css file and add the webfont file and images 
+
 ### CSS
 
-same style as the about and home
-- add background
+1/ header
+
+2/ subheader
+
+3/ navbar
+
+4/ showcase
+
+5/ features
+
+6/ info
+
+7/ company
+
+8/ footer
+
 
 ## Finishing Touches
 
